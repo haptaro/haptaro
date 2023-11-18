@@ -1,12 +1,16 @@
 # Hi, I'm Kotaro 👋👨‍💻
-I'm an iOS Engineer.<br>
+I'm a Software Engineer.<br>
 
 # LinkedIn
 - https://www.linkedin.com/in/kotaro-fukuo
 
 # 📝About me
-Over 5 years of experience developing a native iOS app in Swift/Objective-C<br>
+Over 7 years of experience developing software<br>
 I love Swift.<br>
+- (Main) iOS native app development (Swift / SwiftUI / UIKit)
+- Cross-platform (React Native / JavaScript)
+- Backend (Python / Django / Django REST Framework)
+
 I'm very passionate about product.
 I started developing mobile application back in University student as a hobby.
 
