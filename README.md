@@ -5,11 +5,12 @@ I'm a Software Engineer.<br>
 - https://www.linkedin.com/in/kotaro-fukuo
 
 # 📝About me
-Over 7 years of experience developing software<br>
-I love Swift.<br>
-- Native iOS app development (Swift / SwiftUI / UIKit) 6 years
-- Cross-platform (React Native / TypeScript) 1 year
-- Backend (Python / Django / Django REST Framework / Django Ninja)
+Over 9 years of experience developing software<br>
+I love Expo.<br>
+- Native iOS development (Swift / SwiftUI / UIKit) 6 years
+- React Native/Expo (TypeScript) 3 years
+- Python/Django (Django REST Framework / Django Ninja) 3 years
+- PostgreSQL
 
 I'm very passionate about product.
 I started developing mobile application back in University student as a hobby.
