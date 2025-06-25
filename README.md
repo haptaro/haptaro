@@ -5,7 +5,7 @@ I'm a Software Engineer.<br>
 - https://www.linkedin.com/in/kotaro-fukuo
 
 # 📝About me
-Over 9 years of experience developing software<br>
+Over 9 years of experience developing software, especially focuing on mobile development<br>
 I love Expo.<br>
 - Native iOS development (Swift / SwiftUI / UIKit) 6 years
 - React Native/Expo (TypeScript) 3 years
