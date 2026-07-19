@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/haptaro/haptaro/main/profile-summary-card-output/omni/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/haptaro/haptaro/main/profile-summary-card-output/omni/4-productive-time.svg)
+```
+
+    
