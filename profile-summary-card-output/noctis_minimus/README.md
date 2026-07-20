@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/haptaro/haptaro/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/haptaro/haptaro/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
-```
-
-    
